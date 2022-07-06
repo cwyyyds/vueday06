@@ -1,14 +1,17 @@
 <template>
   <div>
-    <registerA></registerA>
+    <aaabbb></aaabbb>
+    <UserSlot></UserSlot>
   </div>
 </template>
 
 <script>
-import registerA from './views/registerA.vue'
+import aaabbb from './views/registerA.vue'
+import UserSlot from './views/UserSlot.vue'
 export default {
   components: {
-    registerA,
+    UserSlot,
+    aaabbb,
   },
 }
 </script>

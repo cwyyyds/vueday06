@@ -9,7 +9,7 @@ export default {
   data() {
     return {
       obj: {
-        password: '',
+        password: '哇哇哇哇',
         passwordAgin: '',
         invitation: '',
       },
